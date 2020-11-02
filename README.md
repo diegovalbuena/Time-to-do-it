@@ -1,5 +1,7 @@
 Nombre del proyecto :'time to do it'.
+
 Grupo: 10.
+
 Integrantes:
 1. Steven Humberto Ojeda Medina
 2. Diego David Valbuena Muñoz
